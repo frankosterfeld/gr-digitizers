@@ -10,8 +10,8 @@ include(FetchContent)
 set(ENABLE_TESTING OFF)
 FetchContent_Declare(
     graph-prototype
-    GIT_REPOSITORY https://github.com/fair-acc/graph-prototype.git
-    GIT_TAG bf360a2c5fddac35d356b1de2d415e5e203345c9
+    GIT_REPOSITORY https://github.com/frankosterfeld/graph-prototype.git
+    GIT_TAG frank/opendigitizer-service
 )
 
 FetchContent_Declare(
